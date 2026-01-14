@@ -1,8 +1,9 @@
 body {
   background: rgb(0, 0, 0);
 }
-h1 {
-  color: white;
+
+.world {
+  color: rgb(255, 255, 255);
 }
 .lorem {
   color: red;
